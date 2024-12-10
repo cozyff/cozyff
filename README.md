@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cozyff
+- 👋 Hi, I’m Monish
 - 👀 I’m interested in mobile app and game development
 - 🌱 I’m currently learning Dart and Python
 - 😄 Pronouns: he/him
